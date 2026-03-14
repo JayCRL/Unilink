@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gofmt:*)",
+      "Bash(\"D:/GO/bin/go.exe\" fmt:*)"
+    ]
+  }
+}
